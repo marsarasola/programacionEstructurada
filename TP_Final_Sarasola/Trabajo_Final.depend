@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1666198122 source:c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\funciones.c
+	"funciones.h"
+	"crc_16.h"
+	"memoria.h"
+	"archivos.h"
+	"crc_check.h"
+	<malloc.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1666198034 source:c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"funciones.h"
+	"memoria.h"
+	"archivos.h"
+	"crc_check.h"
+	"crc_16.h"
+
+1666197996 c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\funciones.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<malloc.h>
+	<strings.h>
+
+1657477101 source:c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\crc_16.c
+	"crc_16.h"
+
+1657477156 c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\crc_16.h
+	<stdint.h>
+
+1666194696 c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\memoria.h
+	"funciones.h"
+
+1666198034 source:c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\memoria.c
+	"memoria.h"
+	"funciones.h"
+	"archivos.h"
+	"crc_check.h"
+
+1666198577 source:c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\archivos.c
+	"funciones.h"
+	"archivos.h"
+	"memoria.h"
+	"crc_check.h"
+
+1666194934 c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\archivos.h
+	"funciones.h"
+
+1666197996 source:c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\crc_check.c
+	"funciones.h"
+	"archivos.h"
+	"memoria.h"
+	"crc_16.h"
+
+1666197996 c:\users\saras\documents\programacion estructurada\tp_ciclistas\trabajo_final\crc_check.h
+	"funciones.h"
+
